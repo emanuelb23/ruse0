@@ -5,13 +5,13 @@
 While the entire assignment is due by 10/6, in order to “encourage” you to not start on 10/5, different parts of this assignment will be due at different times
 you may, of course, complete parts early):
 
-	* CP1 - 9/24
+	* CP1 - 9/28
 
-	* CP2 - 10/1
+	* CP2 - 10/12
 
-	* CP3 - 10/6
+	* CP3 - 10/17
 
-	* Extra Credit - 10/6
+	* Extra Credit - 10/17
 
 For the first two checkpoints, you will demonstrate, in class, that your code works on the test examples given in the assignment.  If your code does not work on the test examples you will lose (up to) 5 points from your score for the assignment.  If it is evident that you have done no work toward meeting the checkpoint, 10 points will be deducted.  For the last checkpoint, you will turn in the code for your completed parser and I will test the cons pair section and run additional tests to look at the functionality of for the simple and arbitrary length arithmetic sections.  You will work with one other person in the class on this assignment, and you will be evaluating your partner and yourself as part of what you will turn in by the due date.  The form for that evaluation will be forthcoming.
 
