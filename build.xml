@@ -73,7 +73,7 @@
        <target name="-pre-compile"  >
  
         <!-- Propriedades -->
-        <property name="antlr.jar" location="/usr/local/lib/antlr-4.2.2-complete.jar"/>
+        <property name="antlr.jar" location="Libs/antlr.jar"/>
         <property name="antlr.grammar" location="ruse0.g4"/>
         <property name="antlr.parserdir" location="src/ruse0"/>
  
